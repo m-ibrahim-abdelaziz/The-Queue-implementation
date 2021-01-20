@@ -7,4 +7,5 @@
 
 <!--   --!>
 
-2-And to excute the program issue __./queue__ comand
+2-And to excute the program issue **./queue** comand
+<!--   --!>
