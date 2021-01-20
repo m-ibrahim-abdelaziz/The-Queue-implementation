@@ -1,7 +1,7 @@
 
 # This is the array and linked based implementation of the queue
 
-## Compiltion and excution##
+## Compiltion and excution:
 
 1-Go to the bin directory and issue the **make all** comand
 
